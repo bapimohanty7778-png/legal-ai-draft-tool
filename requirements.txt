@@ -1,6 +1,5 @@
 streamlit
-ollama
-streamlit
 google-generativeai
+
 
 
