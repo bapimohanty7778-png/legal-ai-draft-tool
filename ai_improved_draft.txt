@@ -1,0 +1,41 @@
+ Title: Bail Application Under Section 57 of the Criminal Procedure Code
+
+[Name of Applicant], hereinafter referred to as the "Applicant," respectfully submits this Bail Application in accordance with Section 57 of the Criminal Procedure Code, [Year], before the Honorable Court.
+
+1. Particulars of the Applicant:
+   - Name: [Name of Applicant]
+   - Age: [Age of Applicant]
+   - Gender: [Gender of Applicant]
+   - Nationality: [Nationality of Applicant]
+   - Occupation/Profession: [Occupation/Profession of Applicant]
+
+2. Particulars of the FIR and Case:
+   - FIR Number: [FIR Number]
+   - Date of FIR: [Date of FIR]
+   - Police Station: [Police Station]
+   - Section(s) and Charge(s) under IPC: [Section(s) and Charge(s) under IPC]
+
+3. Reason for Bail Application:
+   The Applicant, in light of the serious health conditions, is unable to endure the rigors of jail life due to physical ailments. The specific details regarding the nature and severity of the health issues are as follows:
+
+   - [Detailed description of the health condition(s)]
+   - [Treatment(s) required and current status]
+   - [Evidence supporting the health claims, if any (e.g., medical records, opinions from specialists)]
+
+4. Undertaking by the Applicant:
+   If granted bail, the Applicant solemnly undertakes to:
+
+   - Attend all court proceedings regularly and not absent without sufficient reason or permission of the Court;
+   - Not directly or indirectly intimidate or influence any witness or tamper with evidence in any manner whatsoever;
+   - Comply with all terms and conditions imposed by the Court from time to time.
+
+5. Submission of Bail Amount:
+   The Applicant submits an amount of [Bail Amount] as bail, subject to the approval of the Honorable Court.
+
+In view of the above, it is humbly prayed that this Bail Application may kindly be allowed and considered in favor of the Applicant.
+
+Dated this [Date],
+
+[Name of Applicant]
+[Address]
+[Contact Number]
