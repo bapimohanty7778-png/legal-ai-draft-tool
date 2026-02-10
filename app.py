@@ -2,7 +2,8 @@ import streamlit as st
 import google.generativeai as genai
 
 # ---------- Configure API ----------
-genai.configure(api_key="AIzaSyDdyGAVEVKb4mwu3yQXjcPXr69Qdf0sxUs")
+genai.configure(api_key=st.secrets["AIzaSyDdyGAVEVKb4mwu3yQXjcPXr69Qdf0sxUs"])
+
 
 model = genai.GenerativeModel("gemini-1.5-flash")
 
@@ -42,3 +43,4 @@ if draft:
             file_name="improved_draft.txt",
             mime="text/plain"
         )
+
